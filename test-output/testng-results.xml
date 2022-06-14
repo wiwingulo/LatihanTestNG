@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-14T22:02:39 ICT" name="Default suite" finished-at="2022-06-14T22:03:14 ICT" duration-ms="34444">
+    <groups>
+    </groups>
+    <test started-at="2022-06-14T22:02:39 ICT" name="Default test" finished-at="2022-06-14T22:03:14 ICT" duration-ms="34444">
+      <class name="com.nexsoft.testng.CRUDUserBiodata">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.nexsoft.testng.CRUDUserBiodata@3012646b]" started-at="2022-06-14T22:02:39 ICT" name="init" finished-at="2022-06-14T22:02:46 ICT" duration-ms="6233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="login()[pri:0, instance:com.nexsoft.testng.CRUDUserBiodata@3012646b]" started-at="2022-06-14T22:02:46 ICT" name="login" finished-at="2022-06-14T22:02:49 ICT" duration-ms="3065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.nexsoft.testng.CRUDUserBiodata@3012646b]" started-at="2022-06-14T22:02:49 ICT" name="createData" data-provider="getNexSoftData" finished-at="2022-06-14T22:02:54 ICT" duration-ms="5587" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Britni]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Warland]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bwarland0@over-blog.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="createData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.nexsoft.testng.CRUDUserBiodata@3012646b]" started-at="2022-06-14T22:02:54 ICT" name="createData" data-provider="getNexSoftData" finished-at="2022-06-14T22:02:59 ICT" duration-ms="4745" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Spinnace]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rspinnace1@umich.edu]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="createData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.nexsoft.testng.CRUDUserBiodata@3012646b]" started-at="2022-06-14T22:02:59 ICT" name="createData" data-provider="getNexSoftData" finished-at="2022-06-14T22:03:04 ICT" duration-ms="4780" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hymie]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tetsall]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[htetsall2@hhs.gov]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="createData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.nexsoft.testng.CRUDUserBiodata@3012646b]" started-at="2022-06-14T22:03:04 ICT" name="createData" data-provider="getNexSoftData" finished-at="2022-06-14T22:03:09 ICT" duration-ms="4910" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ellsworth]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[O'Hickee]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[eohickee3@blogtalkradio.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="createData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.nexsoft.testng.CRUDUserBiodata@3012646b]" started-at="2022-06-14T22:03:09 ICT" name="createData" data-provider="getNexSoftData" finished-at="2022-06-14T22:03:13 ICT" duration-ms="4627" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Godfry]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sasser]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gsasser4@moonfruit.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="getUsername()[pri:1, instance:com.nexsoft.testng.CRUDUserBiodata@3012646b]" started-at="2022-06-14T22:03:13 ICT" name="getUsername" finished-at="2022-06-14T22:03:14 ICT" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUsername -->
+        <test-method signature="getUsername2()[pri:1, instance:com.nexsoft.testng.CRUDUserBiodata@3012646b]" started-at="2022-06-14T22:03:14 ICT" name="getUsername2" finished-at="2022-06-14T22:03:14 ICT" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUsername2 -->
+      </class> <!-- com.nexsoft.testng.CRUDUserBiodata -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
